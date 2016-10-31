@@ -3,4 +3,4 @@
 export PYBUILD_NAME=ipaddress
 
 %:
-	dh $@ --with python2 --buildsystem=pybuild
+	dh $@ --with python2,pypy --buildsystem=pybuild

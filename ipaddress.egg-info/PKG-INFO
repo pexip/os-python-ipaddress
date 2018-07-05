@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: ipaddress
-Version: 1.0.16
+Version: 1.0.17
 Summary: IPv4/IPv6 manipulation library
 Home-page: https://github.com/phihag/ipaddress
 Author: Philipp Hagemeister
